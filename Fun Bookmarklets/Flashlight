@@ -1,0 +1,1 @@
+javascript:(function(){var js=document.body.appendChild(document.createElement("script"));js.onerror=function(){alert)};js.src="https://rawgit.com/Krazete/bookmarklets/master/mouselight.js"})();

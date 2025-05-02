@@ -1,5 +1,6 @@
 Blooket, Gimkit, and Yohoho.io cheats fun and School
 
+(yes i used chatgpt for my name🙇‍♀️)
 # Intructions
 
 For Bookmarklet/Mobile, copy javascript of folder named bookmarklet. next, copy and paste javascript into bookmarks < Favorites (same was as going into your history)

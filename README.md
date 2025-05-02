@@ -1,4 +1,4 @@
-Blooket, Gimkit, and yohoho.io cheats for school.
+Blooket, Gimkit, and Yohoho.io cheats fun and School
 
 # Intructions
 

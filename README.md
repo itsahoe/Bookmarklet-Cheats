@@ -5,7 +5,7 @@ Blooket, Gimkit, and Yohoho.io cheats fun and School
 
 For Bookmarklet/Mobile, copy javascript of folder named bookmarklet. next, copy and paste javascript into bookmarks < Favorites (same was as going into your history)
 
-desktop: There are 3 good methods to using these scripts:
+For desktop users, There are 3 good methods to using these scripts:
 
 Importing one of the Bookmarklets.html files using these instructions
 

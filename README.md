@@ -2,7 +2,7 @@ Blooket, Gimkit, and yohoho.io cheats for school.
 
 # Intructions
 
-For Bookmarklet/Mobile, copy javascript of folder named bookmarklet. next, paste javascript into favorites bookmarks.
+For Bookmarklet/Mobile, copy javascript of folder named bookmarklet. next, copy and paste javascript into bookmarks < Favorites (same was as going into your history)
 
 desktop: There are 3 good methods to using these scripts:
 
